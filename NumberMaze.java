@@ -1,9 +1,8 @@
 
 /**
- *  NumberMaze2 is a class that constructs and solves number mazes that are
+ *  NumberMaze is a class that constructs and solves number mazes that are
  * constructed based on an input .txt file.
  * @Author Thomas McDowell
- * CS:3330
  * 09/23/2020
  */
 
