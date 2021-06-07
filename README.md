@@ -11,7 +11,7 @@ This would result in a number maze that looks like:
  [1, 2] <br>
  [3, 4]
 
-Compile: javac NumberMaze.java
+Compile: javac NumberMaze.java <br>
 Execute: java NumberMaze maze.txt
 
 
