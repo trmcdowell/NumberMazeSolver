@@ -20,7 +20,7 @@ $ javac NumberMaze.java
 
 Execute:
 ```
-java NumberMaze maze.txt
+$ java NumberMaze maze.txt
 ```
 
 
