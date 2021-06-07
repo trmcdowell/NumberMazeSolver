@@ -14,14 +14,14 @@ This would result in a number maze that looks like:
  Note that this maze is unsolvable, as there are no valid moves after the first one. This is because we are "moving" from the top left spot to the goal, which is at the bottom left. If on a space, the number of steps on that space must be made within the bounds of the maze and must be done so vertically or horizontally, in other words diagonal movement is not allowed. If a move goes beyond the bounds of the maze, it will be considered invalid and not be considred any farther in the algorithm for shortest path.
 
 Compile:
-...
+```
 $ javac NumberMaze.java
-...
+```
 
 Execute:
-...
+```
 java NumberMaze maze.txt
-...
+```
 
 
 ## Authors
