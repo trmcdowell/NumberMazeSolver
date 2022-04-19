@@ -76,8 +76,7 @@ public class NumberMaze {
         Queue<BFSnode> queue = new LinkedList<BFSnode>();
         Set<BFSnode> visited = new HashSet<BFSnode>();
         BFSnode curr = new BFSnode( 0, 0, null, 0 );
-        int distance;
-        // unique index string for keeping track of visited nodes
+        int distance; // distance of moves
         queue.add( curr );
         visited.add( curr );
 
